@@ -1,0 +1,90 @@
+<html>
+	<head>
+		<title>Index</title>
+		<link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic|Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="/static/style.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script type="text/javascript" src="static/ajax.js"></script>
+		<meta name="viewport" content="width=device-width">
+	</head>
+	<body onload="getWeather()">
+		<div class="headerobj">
+			<div class="weatherBox">
+				<span style="font-weight: 900;">Current Weather</span>
+				<span class="weather"></span>
+			</div>
+			<div class="headerCont">
+				<header>OTR TIMES</header>
+			</div>
+			<div class="weatherBox" style="margin-right: 0px; margin-left: 225px; ">
+				<span style="font-size: 24px; font-weight: 600; font-style: normal">LISTEN LIVE!</span>
+			</div>
+			<div class="subheaderobj">Edmonton, {{ date }} 2018</div>
+		</div>
+		<div class="content">
+			<div class="columns">
+				<div class="column">
+					<h6 class="headline" style="font-weight: 500;">ABOUT THIS SITE</h6>
+					<div class="topBar2">
+						<span id="menu2">Created by Tyler Lazarenko</span>
+					</div>
+				</div>
+				<div class="column">
+					<h6 class="headline air">FROM THIS DAY IN HISTORY...</h6>
+					<div class="topBar2">
+						<span id="menu2">First aired on {{ date }}</span>
+					</div>
+					<ul>
+						{% for show in todayShows %}
+							<li>
+								<button class="link" value="{{ show[4]}}" onclick='adjPlaylist(this.value, "{{ show[0] }}", 
+								"{{ show[1] }}")'>
+									{{ show[1] }}-{{ show[3] }} <br> {{ show[0] }}
+								</button>
+							</li>
+						{% endfor %}
+					</ul>
+				</div>
+				<div class="column">
+					<h6 class="headline">ALL SHOWS FOR YOUR PERUSAL...</h6>
+					<div class="topBar2">
+						<span id="menu">Genres:</span>
+					</div>
+					<ul id="list">
+						{% for genre in genres %}
+							<li><button class="link" onclick="getFrom(this, '{{ genre }}')">{{ genre }}</button></li>
+						{% endfor %}
+					</ul>
+				</div>
+				<div class="column">
+					<h6 class="headline air" style="font-weight: 500;">PROGRAMS IN YOUR PLAYLIST</h6>
+					<div class="topBar2">
+						<span id="menu2">NOW PLAYING</span>
+					</div>
+					<ul id="nowPlayingList">
+					</ul>
+					<div class="topBar2">
+						 <span id="menu2">UP NEXT</span>
+					</div>
+					<ul id="upNextList">
+						<li>
+							<button class="link" style="display: inline-block; width:70%;">The Devil went down to Georgia said you're pretty good ol son</button>
+							<button class ="link" style="display: inline-block;">x</button>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div id="audioContainer">
+			<audio id="player">
+				<source id="src" src="">
+			</audio>
+			<img src="static/pause3.png" id="play" onclick="control()">
+			<img src="static/player.png">
+			<div id="nowPlaying">Now Playing: </div>
+			<div id="nowPlaying2"></div>
+			<img id ="sound" src="static/sound1.png" onclick="controlA()">
+		</div>
+	</body>
+</html>
+

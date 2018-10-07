@@ -1,0 +1,48 @@
+<html>
+	<head>
+		<title>Index</title>
+		<link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic|Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="/static/style.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script type="text/javascript" src="static/ajax.js"></script>
+	</head>
+	<body>
+		<div id="parent">
+			<div id="recommend">
+				<div class="menuDiv2">
+					<h5 class="headline" style="width: 200px; font-style: normal;">Aired On This Date: {{ date }}</h5>
+					<ul>
+						{% for show in todayShows %}
+							<li><p class="link">{{show[0]}}</p></li>
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+			<div class="container">
+				<div class="topBar">
+					<button id="back" style="display:none;" onclick='back()'>Back</button>
+					<span id="menu">Genres:</span>
+				</div>
+				<div class="menuDiv">
+					<h6 class="headline">FOR YOUR LISTENING PLEASURE...</h6>
+					<ul id="list">
+						{% for genre in genres %}
+							<li><button class="link" onclick="getFrom(this, '{{ genre }}')">{{ genre }}</button></li>
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div id="audioContainer">
+			<audio id="player">
+				<source id="src" src="">
+			</audio>
+			<img src="static/pause.png" id="play" onclick="control()">
+			<img src="static/player.png">
+			<div id="nowPlaying">Now Playing: </div>
+			<div id="nowPlaying2"></div>
+			<img id ="sound" src="static/sound.png" onclick="controlA()">
+		</div>
+	</body>
+</html>
+

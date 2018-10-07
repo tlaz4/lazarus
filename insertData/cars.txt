@@ -1,0 +1,302 @@
+* 33/11/29    1 Lt. Hugh Crowley Murder
+* 33/12/06    2 Burma White Case
+* 33/12/13    3 York Gang Holdup
+* 33/12/20    4 The Human Bomb
+* 33/12/27    5 Cookie Vejar Killing
+* 34/01/03    6 Missing Mexican Sheiks
+* 34/01/10    7 Caliente Money Car Holdup
+* 34/01/17    8 The Steele Kidnapping
+* 34/01/24    9 Case of the Three Grooved Bullets
+* 34/01/31   10 Castor Oil Diamond Robbery
+* 34/02/07   11 The Smashed Windshield
+* 34/02/14   12 The Times Bombing Case
+* 34/02/21   13 The Mae West Jewel Robbery
+* 34/02/28   14 Killer Hudson
+  34/03/07   15 The William Tallman Case
+* 34/03/14   16 The Chloroform Murder
+* 34/03/21   17 The Dillinger Case
+* 34/03/28   18 The Spinoza Case
+* 34/04/04   19 The Red Rose Girl
+* 34/04/11   20 The Cut Rate Murder
+* 34/04/18   21 Hammers in Honduras
+* 34/04/25   22 Captain Courageous
+* 34/05/02   23 Murder at Southgate
+* 34/05/09   24 Little Phil Alquin
+* 34/05/16   25 Gettle Kidnapping Case
+* 34/05/23   26 Seven Words and a Fingerprint
+* 34/05/30   27 Dinner Party Bandits
+* 34/06/06   28 The Big Mail Robbery
+* 34/06/13   29 Murder of a Soul
+* 34/06/20   30 One of the Finest
+* 34/06/27   31 Power and Light Holdup
+* 34/07/04   32 July Fourth In a Radio Car
+* 34/07/11   33 Fingerprints Don't Lie
+* 34/07/18   34 Manchuko Dope Ring
+* 34/07/25   35 Execution of Dillinger
+* 34/08/01   36 Nitroglycerin Parson
+* 34/08/08   37 Corpse in the Desert
+* 34/08/15   38 Crooks Are Human Beings
+* 34/08/22   39 You Can't Kill a Cop
+* 34/08/29   40 Let the Sucker Pay
+* 34/09/05   41 Marks on the Bedroom Screen
+* 34/09/12   42 The Human Monkey
+* 34/09/19   43 The Ruth Judd Case
+* 34/09/26   44 Stop That Car
+* 34/10/02   45 Skid Row Dope Ring
+* 34/10/09   46 The Unwritten Law
+* 34/10/16   47 One Way Ride
+* 34/10/23   48 Trouser Cuff Clue
+* 34/10/30   49 The Perfect Crime
+* 34/11/06   50 Six Shots at Midnight
+* 34/11/13   51 A Thousand Pieces of Paper
+* 34/11/20   52 Death for a Diamond Ring
+* 34/11/27   53 Sometimes People Aren't Murdered
+* 34/12/04   54 Don't Get Chummy with a Watchman
+* 34/12/11   55 A Cup of Coffee, Some Strychnine Too
+* 34/12/18   56 Moving Picture Murder
+* 34/12/25   57 Human Side of a Cop
+* 35/01/01   58 Highlights of 1934
+* 35/01/08   59 Crime Does Not Pay
+* 35/01/15   60 Two Against Six
+* 35/01/22   61 San Quentin Prison Break
+* 35/01/29   62 Necking Party Murder
+* 35/02/05   63 Banker in the Well
+* 35/02/12   64 Remote Control Sleuth
+* 35/02/19   65 Wreck of the Old Sixty Nine
+* 35/02/26   66 California Two Man Crime Wave
+* 35/03/05   67 Undercover Woman
+* 35/03/12   68 Thou Shalt Not Kill
+* 35/03/19   69 The Mae West Jewel Robber (re-dramatization)
+* 35/03/26   70 Rhythm of the Jute Mill
+* 35/04/02   71 Aborted Revolution
+* 35/04/09   72 The Blonde Menace
+* 35/04/16   73 Midnight Phantom
+* 35/04/23   74 Wholesale Murder
+* 35/04/30   75 Corpse in the Cellar
+* 35/05/07   76 The Wilting Chrysanthemum
+* 35/05/14   77 Murder in the Vineyard
+* 35/05/21   78 The Hightower Case
+* 35/05/28   79 Youth Rides Rough
+* 35/06/04   80 The Innocent Bride
+* 35/06/11   81 Hot Bonds
+* 35/06/18   82 The Chinese Puzzle
+* 35/06/25   83 Meet the Baron
+* 35/07/02   84 Oakland Payroll Robbery
+* 35/07/09   85 Murder by Blueprint
+* 35/07/16   86 The Human Claw
+* 35/07/23   87 Opium Den
+* 35/07/30   88 Gun Drunk
+* 35/08/07   89 Celestial Journey
+* 35/08/14   90 Vegetable Market Murder
+* 35/08/21   91 The Grinning Skull
+* 35/08/28   92 Bad Dope
+* 35/09/04   93 Black Vengeance
+* 35/09/11   94 The Tunnel Bandits
+* 35/09/18   95 Eighteen Days of Freedom
+* 35/09/25   96 Hollywood Kidnapping
+* 35/10/02   97 Escape
+* 35/10/09   98 Fire! Fire! Fire!
+* 35/10/16   99 Murder for Insurance
+* 35/10/23  100 Lt Crowley Murder
+* 35/10/30  101 The Murder Quartet
+* 35/11/06  102 Catching the Loose Kid
+* 35/11/13  103 Invitation to Murder
+* 35/11/20  104 Bank Bandits and Bullets
+  35/11/27  105 
+* 35/12/04  106 Burglar Charges Collect
+* 35/12/11  107 Paroled
+* 35/12/18  108 Corpse by the Road
+* 35/12/25  109 The Moran Jewelry Robbery
+* 36/01/01  110 Ghost House
+* 36/01/08  111 Death Under the Sajuaro
+* 36/01/15  112 The Match Burglar
+* 36/01/22  113 Corpse with a Face
+* 36/01/29  114 Bull in the China Shop
+* 36/02/05  115 Knives on the Barbary Coast
+* 36/02/12  116 Young Dillinger
+* 36/02/19  117 Murder in the Back Room
+* 36/02/26  118 The Bloodstained Saw
+* 36/03/04  119 Hundred Dollar Nightgown
+* 36/03/11  120 Case of the June Bug
+* 36/03/18  121 The San Rafael Gang
+* 36/03/25  122 Think Before You Shoot
+* 36/04/03  123 Crime vs Time
+* 36/04/10  124 One Good Turn Deserves Another
+* 36/04/17  125 Hang Me Please
+* 36/04/24  126 Beer Bottle Murder
+* 36/05/01  127 And a Little Child Shall Lead Them
+* 36/05/08  128 Weather Clear - Track Fast
+* 36/05/15  129 Seventy-Four Day Stakeout
+* 36/05/22  130 Triple Cross
+* 36/05/29  131 Throat That Didn't Bleed
+* 36/06/05  132 Drive 'em off the Dock
+* 36/06/11  133 Gold in Them Hills
+* 36/06/18  134 Woman with the Stone Heart
+* 36/06/25  135 Reefers by the Acre
+* 36/07/02  136 Flaming Tick of Death
+* 36/07/09  137 The Crimson Riddle
+* 36/07/16  138 The Cockeyed Killer
+* 36/07/23  139 Corpse in the Shack
+* 36/07/30  140 Chance Meeting Murder
+* 36/08/06  141 Opium and Dough Don't Mix
+* 36/08/13  142 Missing Messenger
+* 36/08/20  143 Body, Body Who's Got the Body
+* 36/08/27  144 All That Glitters
+* 36/09/03  145 Body in the Mine
+* 36/09/10  146 Twenty Keys to Death
+* 36/09/17  147 Verdugo Hills Murder
+* 36/09/24  148 The September Killer
+* 36/10/01  149 Hard to Kill
+* 36/10/08  150 The Holy Twenty-One
+* 36/10/15  151 Noblesse Oblige
+* 36/10/22  152 Trap to Catch a Mailman
+* 36/10/29  153 The Army Game
+* 36/11/05  154 Murder in Room 9
+* 36/11/12  155 Nine Years a Safecracker
+* 36/11/19  156 The Corpse in the Red Necktie
+* 36/11/26  157 Baby Dillinger Gang
+* 36/12/03  158 The Fire Detective
+* 36/12/10  159 The Criminal Policeman
+* 36/12/17  160 Multiple Murders
+* 36/12/21  161 Milk Bottle Murder
+* 36/12/28  162 Fifty Cents for Life
+* 37/01/04  163 Banks and Bribes
+* 37/01/11  164 Curiosity Killed a Cat
+* 37/01/18  165 Death Is Box Office
+* 37/01/25  166 Dr Nitro
+* 37/02/03  167 Whistling Snowbirds
+* 37/02/10  168 The Laughing Killer
+* 37/02/17  169 The Torture Extortionist
+* 37/02/24  170 Banker Bandit
+* 37/03/03  171 The Honor Complex
+* 37/03/10  172 Desertion Leads to Murder
+* 37/03/17  173 Hit Run Killer
+* 37/03/24  174 Trial by Talkie
+* 37/03/31  175 The Double Cross
+* 37/04/07  176 Death in the Morning
+* 37/04/14  177 Ransom Ring
+* 37/04/21  178 Pegleg Justice
+* 37/04/28  179 Murder Week
+* 37/05/05  180 Ice House Murder
+* 37/05/12  181 John Doe Number Seventy-One
+* 37/05/19  182 The Turf Burglars
+* 37/05/26  183 The Disappearing Scar
+* 37/06/02  184 Cinder Dick
+* 37/06/09  185 The Man Who Lost His Face
+* 37/06/16  186 The Bamboo Snake
+* 37/06/23  187 The Desperate Choice
+* 37/06/30  188 TCOT Perfumed Cigarette Lighter
+* 37/07/07  189 Kidnapped
+* 37/07/14  190 Man Overboard
+* 37/07/21  191 Alibi
+* 37/07/28  192 Bottle Trouble
+* 37/08/04  193 Broken Xylophone
+* 37/08/11  194 The Manila Envelopes
+* 37/08/18  195 True Confession
+* 37/08/25  196 The Criminal Returns
+* 37/09/01  197 Case of the One Pound Note
+* 37/09/07  198 Tobaccoville Road
+* 37/09/14  199 Murder in Basin Street
+* 37/09/21  200 The Bone Button
+* 37/09/28  201 The Crimson Crusader
+* 37/10/05  202 Sirens in the Night
+* 37/10/12  203 TCOT Two Edged Knife
+* 37/10/19  204 Death in the Forenoon
+* 37/10/26  205 TCOT Bloodstained Coin
+* 37/11/02  206 People Versus O'Brien
+* 37/11/09  207 TCOT Phantom Radio
+* 37/11/16  208 The Rhythm of the Wheels
+* 37/11/23  209 The Bad Man
+* 37/11/30  210 TCOT Flat Nosed Pliers
+* 37/12/07  211 Skeleton in the Desert
+* 37/12/14  212 The General Kills at Dawn
+* 37/12/21  213 The Shanghai Jester
+* 37/12/28  214 Sands of the Desert
+* 38/01/04  215 The Buccaneer
+* 38/01/11  216 Swing Low Sweet Chariot
+* 38/01/18  217 The Tilted Pan
+* 38/01/25  218 Trail of the Numbered Bills
+* 38/02/01  219 History of Dallas Eagan
+* 38/02/08  220 TCOT Drunken Sailor
+* 38/02/15  221 Homicidal Hobo
+* 38/02/22  222 The Drunken Sailor
+* 38/03/01  223 The Broken Motel
+* 38/03/08  224 Death in the Moonlight
+* 38/03/15  225 The Peroxide Blond
+* 38/03/22  226 The Long Bladed Knife
+* 38/03/29  227 Murder with Mushrooms
+* 38/04/07  228 The Pink Nosed Pig
+* 38/04/14  229 The Roving Robbers
+* 38/04/21  230 Murder at Midnight
+* 38/04/28  231 The Pattering Parrot
+* 38/05/05  232 The Bloodstained Shoe
+* 38/05/12  233 The Ruined Suspenders
+* 38/05/19  234 The King's Ransom
+* 38/05/26  235 Muerte En Buenaventura
+* 38/06/02  236 The Greasy Trail
+* 38/06/09  237 The Turtle Necked Murderer
+* 38/06/16  238 The Twenty-Fifth Stamp
+* 38/06/23  239 The Incorrigible Youth
+* 38/06/30  240 The Big Shot
+* 38/07/07  241 The Kalsomined Kar
+* 38/07/14  242 The Man Who Talked
+* 38/07/21  243 A Murder Has Been Arranged
+* 38/07/28  244 Life, Liberty, and the Pursuit of Parker
+* 38/08/04  245 Murder on Eddy Street
+* 38/08/11  246 I Asked for It
+* 38/08/18  247 The Unbroken Spirit
+* 38/08/25  248 The Thirteenth Grave
+* 38/09/01  249 The Artful Dodger
+* 38/09/08  250 Murder on the Left
+* 38/09/15  251 The Embroidered Slip
+* 38/09/22  252 The Black Cat
+* 38/09/29  253 The Barking Dog
+* 38/10/06  254 The Tearless Magdalene
+* 38/10/13  255 The Blond Paper Hanger
+* 38/10/20  256 The Abandoned Bricks
+* 38/10/27  257 The Swollen Face
+* 38/11/03  258 The Portuguese Crooner
+* 38/11/10  259 The Glass Gun
+* 38/11/17  260 The Four Lead Slugs
+* 38/11/24  261 The Rasping Voice
+* 38/12/02  262 The Blind Man's Bluff
+* 38/12/09  263 The Poisoning Jezebel
+* 38/12/16  264 December Rhapsody
+* 38/12/23  265 Murder at Sundown
+* 38/12/30  266 Three Faces West
+* 39/01/06  267 The Grass Skirt
+* 39/01/13  268 The Silver Cord
+* 39/01/20  269 The Azure Ring
+* 39/01/27  270 The Baker's Bride
+* 39/02/03  271 The Careless Caretaker
+* 39/02/10  272 The Green Sedan
+* 39/02/17  273 The Bloodstained Wrench
+* 39/02/24  274 The Unconquerable Mrs Shuttle
+* 39/03/03  275 The Lesson in Loot
+* 39/03/10  276 The Twenty Dollar Bill
+* 39/03/17  277 Flight in the Desert
+* 39/03/24  278 The Hunted Man
+* 39/03/31  279 The Rope Bound Trunk
+* 39/04/07  280 The Man Who Walked Like an Ape
+* 39/04/14  281 Death in the Canyon
+* 39/04/21  282 The Bitter Wine
+* 39/04/28  283 The Man Who Ran Away
+* 39/05/04  284 Gospel of Brother Ned
+* 39/05/11  285 You Can Cheat an Honest Man
+* 39/05/18  286 Murder at Sunset
+* 39/05/25  287 The Bloodstained Car
+* 39/06/01  288 Plague of the Black Locust
+* 39/06/08  289 The Old Grad Returns
+* 39/06/15  290 Man with the Injured Knee
+* 39/06/22  291 In the Still of the Night
+* 39/06/29  292 The Wired Wrists
+* 39/07/06  293 The Wicked Flea
+* 39/07/13  294 The Squealing Rat
+* 39/07/20  295 The Twenty-Sixth Wife
+* 39/07/27  296 The Tear-Drop Charm
+* 39/08/03  297 Body on the Promenade Deck
+* 39/08/10  298 The Missing Guns
+* 39/08/17  299 Man with the Iron Pipes
+* 39/08/25  300 The Tenth Commandment
+* 39/09/01  301 Six of a Kind
+* 39/09/08  302 Murder in the Morning

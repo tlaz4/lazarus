@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title>Index</title>
+		<link rel="stylesheet" type="text/css" href="/static/style.css">
+	</head>
+	<body>
+		<script type="text/javascript">
+			var audio = new Audio();
+
+			function Play(){
+				audio.src = "http://192.168.0.47:2224";
+				audio.play();
+			}
+		</script>
+
+		<button id="playButton" onclick="Play()">Play</button>
+
+	</body>
+</html>

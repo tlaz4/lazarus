@@ -1,0 +1,249 @@
+  40/xx/xx      Many corrections for this log were supplied by otrwash, greybelt, completedayman, Digital Deli
+* 47/02/28    0 Out Of This World (Audition)
+* 47/03/21    0 Dead of Night (Audition)
+* 47/07/07    1 The Man Who Would Be King (Raymond Lawrence)
+* 47/07/14    2 Operation Fleur De Lys
+* 47/07/21    3 The Diamond as Big as the Ritz (Jack Edwards, Jr)
+* 47/07/28    4 Typhoon
+* 47/08/04    5 Sire De Maletroit's Door
+* 47/08/11    6 Ring of Thoth
+* 47/08/18    7 The Fourth Man (Paul Frees)
+* 47/10/01    8 Most Dangerous Game
+  47/10/08    9 Run of the Yellow Mail
+* 47/10/15   10 A Shipment of Mute Fate (Jack Webb)
+* 47/10/22   11 The Fall of the House of Usher
+* 47/10/29   12 Pollack and the Porroh Man
+* 47/11/05   13 Evening Primrose (Elliott Lewis)
+* 47/11/12   14 The Young Man with the Cream Tarts
+* 47/11/19   15 Casting the Runes
+* 47/11/26   16 The Country of the Blind
+* 47/12/03   17 Taboo
+* 47/12/10   18 An Occurrence at Owl Creek Bridge
+* 47/12/17   19 Wild Oranges (William Conrad)
+* 47/12/24   20 Back for Christmas
+* 47/12/31   21 Confession
+* 48/01/07   22 The Second Class Passenger (national broadcast)
+* 48/01/10   22 The Second Class Passenger (national broadcast, different production)
+* 48/01/14   23 Leiningen vs the Ants (national broadcast)
+* 48/01/17   23 Leiningen vs the Ants (national broadcast, different production)
+* 48/01/21   24 Papa Benjamin (national broadcast)
+* 48/01/24   24 Papa Benjamin (national broadcast, different production)
+* 48/01/28   25 Three Good Witnesses (national broadcast)
+* 48/01/31   25 Three Good Witnesses (national broadcast, different production)
+* 48/02/01   26 The Vanishing Lady (national broadcast)
+* 48/02/07   26 The Vanishing Lady (national broadcast, different production)
+* 48/02/08   27 Snake Doctor (national broadcast)
+* 48/02/14   27 Snake Doctor (national broadcast, different production)
+* 48/02/15   28 Ancient Sorceries (national broadcast)
+* 48/02/21   28 Ancient Sorceries (national broadcast, different production)
+* 48/02/22   29 How Love Came to Professor Guildea (national broadcast)
+* 48/02/28   29 How Love Came To Professor Guildea (national broadcast, different production)
+  48/02/29   30 The Grove of Ashtaroth (national broadcast)(possibly pre-empted)
+* 48/03/06   30 The Grove Of Ashtaroth (national broadcast, different production)
+* 48/03/07   31 Jimmy Goggles, the God (national broadcast)
+  48/03/13   31 Jimmy Goggles, The God (national broadcast, different production)
+* 48/03/14   32 The Log of the Evening Star (national broadcast)
+  48/03/20   32 The Log Of The Evening Star (national broadcast, different production)
+* 48/03/21   33 Misfortune's Isle (national broadcast)
+  48/03/27   33 Misfortune's Isle (national broadcast, different production)
+* 48/03/28   34 A Shipment of Mute Fate (Harry Bartell)
+* 48/04/04   35 Action (Berry Kroeger)
+* 48/04/11   36 The Brute
+* 48/04/18   37 The Drums of the Fore and Aft (Gil Stratton, Jr)
+* 48/04/25   38 The Fourth Man (Berry Kroeger)
+* 48/05/02   39 John Jock Todd
+* 48/05/09   40 The Time Machine (Jeff Corey)
+* 48/05/16   41 The Match
+* 48/05/23   42 Leiningen Versus the Ants (William Conrad, Jay Novello)
+* 48/06/06   43 Beau Geste
+* 48/06/27   44 Country of the Blind (Paul Frees, William Conrad)
+* 48/07/04   45 A Tooth for Paul Revere
+* 48/07/11   46 She
+* 48/07/18   47 Habit
+* 48/08/01   48 The Man Who Would Be King (Ben Wright)
+* 48/08/15   49 The Fugitive
+* 48/08/22   50 SS San Pedro
+* 48/08/29   51 The Diamond as Big as the Ritz (William Conrad)
+* 48/09/05   52 Dream of Armageddon
+* 48/09/12   53 Evening Primrose (William Conrad)
+* 48/09/19   54 The Man Who Could Work Miracles
+* 49/02/12   55 The Lost Special
+* 49/02/19   56 Orient Express
+* 49/02/26   57 Red Wine (Jeff Chandler)
+* 49/03/05   58 Conqueror's Isle (David Ellis)
+* 49/03/12   59 He Who Rides the Tiger
+* 49/03/13   60 A Shipment of Mute Fate (John Lund)
+* 49/03/19   61 Finger of Doom
+* 49/03/20   62 The Country of the Blind (Edmond O'Brien)
+* 49/03/26   63 The Adaptive Ultimate
+* 49/03/27   64 The Diamond as Big as the Ritz (Sam Edwards, Helen Thomas)
+* 49/04/02   65 Confidential Agent
+* 49/04/09   66 When the Man Comes, Follow Him
+* 49/04/16   67 The General Died at Dawn
+* 49/04/23   68 The Great Impersonation
+* 49/07/07   69 The Fourth Man (Wilms Herbert)
+* 49/07/14   70 The Drums of the Fore and Aft (Ben Wright)
+* 49/07/21   71 Action (Joseph Kearns)
+* 49/07/28   72 Second Class Passenger (Parley Baer)
+* 49/08/04   73 Leiningen Versus the Ants (Tudor Owen)
+* 49/08/11   74 Red Wine (Willard Waterman)
+* 49/08/18   75 Snake Doctor (Ira Grossel)
+* 49/08/25   76 Evening Primrose (Harry Bartell)
+* 49/09/21   77 The Fortune of Vargas
+* 49/09/28   78 Wild Oranges (Van Heflin)
+  49/10/08   79 The Primitive
+* 49/10/15   80 The Sure Thing (William Conrad)
+* 49/10/22   81 Night in Havana
+  49/10/29   82 The Blue Wall
+* 49/11/01   83 Flood on the Goodwins (Jack Edwards)
+* 49/11/08   84 Plunder of the Sun
+* 49/11/15   85 Three Skeleton Key (William Conrad)
+* 49/11/22   86 Maracas
+* 49/11/29   87 Letter from Jason
+* 49/12/06   88 Command (Elliott Reed)
+* 49/12/13   89 Border Town
+* 49/12/20   90 Figure a Dame
+* 49/12/27   91 Seeds of Greed
+* 50/01/03   92 The Pistol
+* 50/01/10   93 Vanishing Lady (Del Castillo)
+* 50/01/17   94 The Sure Thing (Anthony Ross)
+* 50/01/24   95 Treasure Incorporated
+* 50/01/31   96 Present Tense
+* 50/02/07   97 The Outer Limit
+* 50/02/14   98 Two If by Sea
+* 50/02/21   99 The Red Mark
+* 50/02/28  100 The Man Who Won the War
+* 50/03/10  101 Port Royal
+* 50/03/17  102 Three Skeleton Key (Vincent Price)
+* 50/03/24  103 Danger at Matecumbe
+* 50/03/31  104 Green Splotches
+* 50/04/07  105 The Ambassador of Poker
+* 50/04/14  106 The Golden Snake
+* 50/04/21  107 The Shanghai Document
+* 50/04/28  108 Something for Nothing
+* 50/05/05  109 The Man Who Stole the Bible (Ben Wright)
+* 50/05/12  110 The Rim of Terror
+* 50/05/19  111 Pass to Berlin
+* 50/05/26  112 Command (Harry Bartell)
+* 50/06/02  113 Mars Is Heaven
+  50/06/09  114 The Big Sponge
+* 50/06/16  115 Serenade for a Cobra
+* 50/06/23  116 Sundown
+* 50/06/30  117 Blood Bath
+* 50/07/07  118 A Shipment of Mute Fate (David Ellis)
+* 50/07/14  119 Shark Bait
+* 50/07/21  120 Yellow Wake
+* 50/07/28  121 Poison
+* 50/08/04  122 Two Came Back
+* 50/08/11  123 The Red Forest (Ben Wright)
+* 50/08/18  124 The Footprint
+* 50/08/25  125 Crossing Paris
+* 50/10/01  126 A Sleeping Draft (John Dodsworth)
+* 50/10/08  127 Roulette
+* 50/10/15  128 The Power of Hammer
+* 50/10/22  129 The Time Machine (John Dehner)
+* 50/10/29  130 Seven Hours to Freedom
+* 50/11/05  131 Earth Abides Part 1
+* 50/11/12  132 Earth Abides Part 2
+* 50/11/19  133 Journey into Fear
+* 50/11/26  134 Funeral Fires
+* 50/12/03  135 This Side of Nowhere
+* 50/12/10  136 A Passenger to Bali
+* 50/12/17  137 Wild Jack Rhett (John Dehner)
+* 50/12/24  138 The Cave
+* 50/12/31  139 The Man Who Could Work Miracles
+* 51/01/07  140 Conquest
+* 51/01/14  141 A Bullet for Mr Smith
+  51/01/21      No Show
+  51/01/28      No Show
+  51/02/04      No Show
+* 51/02/11  142 The Killer Mine
+* 51/02/18  143 The Follower
+* 51/07/11  144 The Island (Harry Bartell)
+* 51/07/18  145 Macao
+* 51/07/25  146 The Earthman
+* 51/08/01  147 The Gladiator
+* 51/08/08  148 Up Periscope
+* 51/08/15  149 Rough Shoot
+* 51/08/22  150 The Silent Horror
+* 51/08/30  151 The Man Who Stole the Bible (Sam Pierce)
+* 52/10/12  152 Gringo
+* 52/10/19  153 The Price of the Head (William Conrad)
+* 52/10/26  154 Robert of Huntingdon
+* 52/11/02  155 The Running Man
+* 52/11/09  156 The Return
+* 52/11/16  157 The Loup-Garou
+  52/11/23  158 Transport to Terror
+  52/11/30  159 Pagosa
+* 52/12/07  160 Incident in Quito
+* 52/12/14  161 Four Went Home
+* 52/12/21  162 The Man Who Liked Dickens
+  52/12/28  163 Nightmare in the Sun
+  53/01/04  164 Dangerous Man
+* 53/01/11  165 Conqueror's Isle (Harry Bartell)
+* 53/01/18  166 A Matter of Conscience
+* 53/01/25  167 Diary of a Madman
+* 53/02/01  168 A Study in Wax
+* 53/02/08  169 Jetsam
+* 53/02/15  170 Wild Jack Rhett (Harry Bartell)
+* 53/02/22  171 I Saw Myself Running
+* 53/03/01  172 The Tramp
+* 53/03/08  173 The Island (Stacy Harris)
+* 53/03/15  174 The Man with the Steel Teeth
+* 53/03/22  175 Pressure
+* 53/03/29  176 The Invader
+* 53/04/05  177 A Sleeping Draft (Alec Harford)
+* 53/04/12  178 Classified Secret
+* 53/04/19  179 El Guitarrero
+* 53/04/26  180 The Derelict
+* 53/05/03  181 Lili and the Colonel
+* 53/05/10  182 The Vessel of Wrath
+* 53/05/17  183 North of Polaris
+  53/05/24  184 The Blue Hotel (only re-creation exists)
+* 53/05/31  185 A Good Thing
+* 53/06/07  186 The Voyages of Sinbad
+* 53/06/14  187 Clear for Action
+* 53/06/21  188 The Far-Away Island
+  53/06/28  189 One-Eighth Apache
+* 53/07/05  190 A Source of Irritation
+* 53/07/12  191 The Out Station
+* 53/07/19  192 The Open Boat
+* 53/07/26  193 The Notebook
+* 53/08/02  194 The Red Forest (Tom Tully)
+* 53/08/09  195 Three Skeleton Key (Antony Ellis)
+* 53/08/16  196 The Thirteenth Truck
+* 53/08/23  197 The Man from Tomorrow
+* 53/08/30  198 The Game
+* 53/09/06  199 Train from Oebisfelde
+* 53/09/13  200 The Abominable Snowman
+* 53/09/20  201 The Log
+* 53/09/27  202 The Untouchable
+* 53/10/04  203 Zero Hour
+* 53/10/11  204 Elementals
+* 54/03/11  205 The Bird of Paradise
+* 54/03/18  206 Violent Night
+* 54/03/25  207 The Second Shot
+* 54/04/01  208 The Return
+* 54/04/08  209 The Scarlet Plague
+* 54/04/15  210 Affair at Mandrake
+  54/05/06      Pre-empted for Senate Hearings
+  54/05/13      Pre-empted for Senate Hearings
+* 54/05/20  211 The Adversary
+* 54/06/03  212 An Ordinary Man
+* 54/06/10  213 Benscelina and the Fisherman
+* 54/06/17  214 Bloodwaters
+* 54/06/24  215 Judgment Day at Crippled Deer
+* 54/07/01  216 The Dark Wall
+* 54/07/10  217 The Birds
+* 54/07/17  218 Eye of Evil
+* 54/07/24  219 Flood on the Goodwins (Vic Perrin)
+* 54/07/31  220 Night of the Guns
+* 54/08/07  221 The Price of the Head (Hans Conreid)
+* 54/08/14  222 The Coward
+* 54/08/21  223 Two and Two Make Four
+* 54/08/28  224 The King of Owanatu
+* 54/09/04  225 The Boiling Sea
+* 54/09/11  226 Carnival in Vienna
+* 54/09/18  227 The Target
+* 54/09/25  228 The Heart of Kali (last show)
+* 77/10/15      The Blue Hotel (Recreation)
