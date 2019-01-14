@@ -12,6 +12,10 @@ header{
     font-family: 'Playfair Display', serif;
 }
 
+.content{
+    height: 125%;
+}
+
 .headerCont{
     display: inline-block;
     text-align: center;
@@ -126,19 +130,31 @@ header{
 }
 
 .link {
-	outline: 0;
-	border: none;
-	font-family: "Droid Serif";
-	font-size: 14px;
-	background-color: transparent;
+    padding-bottom: 5px;
+    outline: 0;
+    border: none;
+    font-family: 'Droid Serif';
+    font-size: 16px;
+    background-color: transparent;
+    text-align: left;
+}
+
+.queue{
+    display: inline-block; 
+    width:90%;
+}
+
+.year{
+    font-size: 12px;
 }
 
 button{
 	outline: 0;
 	border: none;
-	font-family: 'Playfair Display';
-	font-size: 18px;
+	font-family: 'Droid Serif';
+    font-size: 16px;
 	background-color: transparent;
+    text-align: left;
 }
 
 button:hover{
@@ -158,7 +174,9 @@ button:hover{
 }
 
 #audioContainer{
-	position: relative;
+	position: fixed;
+    bottom: 0;
+    width: 100%;
 	text-align: center;
 	height: 120px;
 	margin-top: 15px;
@@ -211,24 +229,30 @@ button:hover{
 
 body{
 	background-color: #E8E8E0;
-    color: #2f2f2f;
+    color: black;
     font-family: 'Droid Serif', serif;
 }
 
 .columns{
+    display: flex;
+    justify-content: center;
 }
 
 .column{
 	font-size: 14px;
     line-height: 20px;
     width: 17.5%;
-    height: 80%;
+    height: 85%;
     overflow-y: scroll;
     display: inline-block;
     padding: 0 1% 0 1%;
     vertical-align: top;
     margin-bottom: 50px;
     border-right: 1px solid #2f2f2f;
+}
+
+.select{
+    width:26.5%;
 }
 
 .headline{
@@ -278,6 +302,11 @@ body{
 	 background: #000;
 }
 
+.ad{
+    max-width: 100%;
+}
+
+
 @media only all and (max-width: 1300px) {
     .weatherBox{
         display: none;
@@ -289,6 +318,10 @@ body{
 
 }
 @media only all and (max-width: 1200px) {
+    .columns{
+        display: block;
+    }
+
     .column{
         width: 31%;
     }
@@ -317,3 +350,5 @@ body{
     }
 
 }
+
+

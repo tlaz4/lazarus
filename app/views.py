@@ -61,11 +61,18 @@ def ajax():
 	if phase == "Series":
 		cur.execute("SELECT DISTINCT series FROM radio WHERE genre=?", (query,))
 	elif phase == "Title":
-		cur.execute("SELECT DISTINCT title, url FROM radio WHERE series=? ORDER BY airdate", (query,))
+		cur.execute("SELECT DISTINCT title, url, airdate FROM radio WHERE series=? ORDER BY airdate", (query,))
 	else:
 		cur.execute("SELECT DISTINCT genre FROM radio")
 	results = cur.fetchall()
+	print(results)
 	return jsonify({'results': results})
+
+@app.route('/getRandom', methods=['POST'])
+def getRandom():
+	randomShows = pickRandomShow()
+
+	return jsonify({'results' : randomShows})
 
 def getDate():
 	return datetime.datetime.now()

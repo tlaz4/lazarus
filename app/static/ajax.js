@@ -17,7 +17,7 @@ function getFrom(elemt, queryTerm){
 	        menu: menuPhase[cur]
 	    }).done(function(data) {
 	    	lastMenu = curMenu;
-	    	curMenu = elemt.innerHTML;
+	    	curMenu = elemt.innerHTML.replace("'", "");
 	    	$('#menu').text(curMenu);
 	    	$('#back').text('« Back');// + lastMenu);
 	    	appendLi(data);
@@ -35,7 +35,7 @@ function playNext(){
 		var nextProgram =  $('#upNextList li').first();
 		$('#upNextList li:first-child').remove();
 		$('#nowPlayingList').append(nextProgram);
-		initAudio(nextProgram.attr("value"), "Test", "Test");
+		initAudio(nextProgram.children().val(), "Test", "Test");
 	}
 }
 
@@ -53,15 +53,20 @@ function initAudio(url, text, series){
 // adjust playlist to add selected program
 function adjPlaylist(url, text, series){
 	if(($('#nowPlayingList li').length) == 0){
-		$('#nowPlayingList').append("<li value=" + url +">" + text + "</li>");
+		$('#nowPlayingList').append("<li class='link' value=" + url +">" + text + "</li>");
 		initAudio(url, text, series);
 	}else{
 		//var clearButton = "<button class ='link'>Clear</button>"
-		//$('#upNextList').append("<li>" + 
-		//						clearButton + 
-		//						"<button class='link' value=" + url + ">" + text +  "</button>" +
-		//						"</li>");
+		$('#upNextList').append("<li>" + 
+								//clearButton + 
+								"<button class='link' value=" + url + ">" + text +  "</button>" +
+								"</li>");
 	}
+}
+
+// can remove items now yay
+function clearItem(id){
+	$("#" + id).remove();
 }
 
 // function to append to the page the choices in ul
@@ -75,12 +80,20 @@ function appendLi(data){
 
 	for (i in data.results) {
 	    //var li = $('<li><button onclick="getFrom(this, ' + "'" + data.results[i][0] + "'" + ')">' + data.results[i][0] + '</button></li>');
-	    var li = $('<li><button class="link" onclick="getFrom(this, ' + "'" + addSlashes(data.results[i][0]) + "'" + ')">' + data.results[i][0] + '</button></li>');
-    	$('#list').append(li);
-    	$('#list').append(li);
+	    var li = $('<li>' + 
+	    			'<div class="link">' + 
+	    			'<button onclick="getFrom(this, ' + "'" + addSlashes(data.results[i][0]) + "'" + ')">' + 
+	    			"'" + data.results[i][0] + "'" +
+	    			'</button>' + 
+	    			'</div>' +
+	    			'</li>');
     	if(cur == 2){
-    		li.children().attr('value', data.results[i][1]);
+    		li.children().children().attr('value', data.results[i][1]);
+    		li.children().children().before("<div class='year'> First aired on the date " + data.results[i][2] +"</div>")
     	}
+
+    	$('#list').append(li);
+    	$('#list').append(li);
     }
 }
 
@@ -127,9 +140,9 @@ function controlA(){
 			player.volume = 0;
 			$('#sound').attr('src', 'static/mute1.png');
 		}else if(player.volume == 0){
-			player.volume = 0.3;
+			player.volume = 0.2;
 			$('#sound').attr('src', 'static/volume22.png');
-		}else if(player.volume == 0.3){
+		}else if(player.volume == 0.2){
 			player.volume = 0.6;
 			$('#sound').attr('src', 'static/volume11.png');
 		}
@@ -156,4 +169,13 @@ function getWeather(){
 				" Wind: " + data.wind.speed + "km/h;" +
 				" Humidity: " + data.main.humidity + "%;");
 		}, "json");
+}
+
+function randomize(){
+	$.post('/getRandom', {
+	    }).done(function(data) {
+	    	for(i in data.results){
+	    		adjPlaylist(data.results[i][4], data.results[i][0], data.results[i][1]);
+	    	}
+	    });  
 }

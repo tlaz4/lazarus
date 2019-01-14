@@ -17,19 +17,21 @@
 				<header>OTR TIMES</header>
 			</div>
 			<div class="weatherBox" style="margin-right: 0px; margin-left: 225px; ">
-				<span style="font-size: 24px; font-weight: 600; font-style: normal">LISTEN LIVE!</span>
+				<span style="font-size: 24px; font-weight: 600; font-style: normal" onclick="randomize()">LISTEN LIVE!</span>
 			</div>
 			<div class="subheaderobj">Edmonton, {{ date }} 2018</div>
 		</div>
 		<div class="content">
 			<div class="columns">
 				<div class="column">
-					<h6 class="headline" style="font-weight: 500;">ABOUT THIS SITE</h6>
+					<!--<h6 class="headline" style="font-weight: 500;">ABOUT THIS SITE</h6>
 					<div class="topBar2">
 						<span id="menu2">Created by Tyler Lazarenko</span>
 					</div>
+					-->
+					<img src="static/whistler_ad.png" class="ad">
 				</div>
-				<div class="column">
+				<!--<div class="column">
 					<h6 class="headline air">FROM THIS DAY IN HISTORY...</h6>
 					<div class="topBar2">
 						<span id="menu2">First aired on {{ date }}</span>
@@ -45,7 +47,8 @@
 						{% endfor %}
 					</ul>
 				</div>
-				<div class="column">
+				-->
+				<div class="column select">
 					<h6 class="headline">ALL SHOWS FOR YOUR PERUSAL...</h6>
 					<div class="topBar2">
 						<span id="menu">Genres:</span>
@@ -56,7 +59,7 @@
 						{% endfor %}
 					</ul>
 				</div>
-				<div class="column">
+				<div class="column select">
 					<h6 class="headline air" style="font-weight: 500;">PROGRAMS IN YOUR PLAYLIST</h6>
 					<div class="topBar2">
 						<span id="menu2">NOW PLAYING</span>
@@ -67,11 +70,14 @@
 						 <span id="menu2">UP NEXT</span>
 					</div>
 					<ul id="upNextList">
-						<li>
-							<button class="link" style="display: inline-block; width:70%;">The Devil went down to Georgia said you're pretty good ol son</button>
-							<button class ="link" style="display: inline-block;">x</button>
-						</li>
+						<!--<li id="0">
+								<button class="link" style="display: inline-block; width:90%; padding-right: 2px; padding-left: 2px"></button>
+								<button class ="link" style="display: inline-block;" onclick="clearItem('0')">x</button>
+						</li>-->
 					</ul>
+				</div>
+				<div class="column">
+					<img src="static/suspense_ad.png" class="ad">
 				</div>
 			</div>
 		</div>
